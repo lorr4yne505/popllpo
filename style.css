@@ -14,3 +14,10 @@
     background-color: rgb(248, 251, 43);
 padding: 100px;
 }
+.cabecalho-image{
+    width: 2%;
+}
+
+.rodape{
+    background-color: blueviolet;
+}
