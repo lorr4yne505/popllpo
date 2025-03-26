@@ -5,11 +5,12 @@
     padding: 24px 0;
 }
 
-.section1 {
+.section1 { 
     background-color: cadetblue;
-     }padding:100 px; 
+    padding:100 px; 
+}
 
 .section2 {
     background-color: cornflowerblue;
-
-} padding: 100px;
+padding: 100px;
+}
