@@ -11,7 +11,7 @@
 }
 
 .section2 {
-    background-color: rgb(248, 251, 43);
+    background-color: rgb(43, 216, 251);
 padding: 100px;
 }
 .cabecalho-image{
@@ -19,6 +19,6 @@ padding: 100px;
 }
 
 .rodape{
-    background-color: blueviolet;
+    background-color: rgb(202, 97, 198);
     color: aliceblue;
 }
